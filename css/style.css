@@ -55,4 +55,7 @@ figcaption {
 
 /* Pseudo Class selector */
 
-#details a:link 
+#details a:link {
+  color: black;
+  text-decoration: none;
+}
